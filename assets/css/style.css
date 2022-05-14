@@ -78,6 +78,12 @@
     background-position: center;
     position: relative;
   }
+
+  .hero-text {
+    width: 50%;
+    color:#fce138;
+    text-align: left;;
+  }
   /* Hero Style End */
   
   .hero-form {
@@ -89,6 +95,7 @@
     position: absolute;
     bottom: 120px;
     right: 140px;
+
   }
   
   .hero-form h3 {
